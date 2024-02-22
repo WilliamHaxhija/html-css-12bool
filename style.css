@@ -7,3 +7,35 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/*---------------
+     GENERAL
+---------------*/
+
+.wrapper {
+    margin-top: 15px;
+}
+
+.box .box {
+    background-color: lightgreen;
+}
+
+/*---------------
+     COLUMNS
+---------------*/
+
+[class*="col-"] {
+    border: 1px solid white;
+}
+
+/*---------------
+       BOX
+---------------*/
+
+.box {
+    background-color: coral;
+    min-height: 30px;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
