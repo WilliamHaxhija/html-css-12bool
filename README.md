@@ -1,0 +1,1 @@
+Il bonus è una pizza, ma mi sono reso conto 10 minuti dopo aver cominciato che la struttura è in 15esimi, quindi la parte finale ( le ultime 3 colonne che creano il contorno della fetta ) non ci sono!
